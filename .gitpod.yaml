@@ -1,0 +1,4 @@
+tasks:
+  - name: Install and deploy
+    init: yarn
+    command: npm run dev
